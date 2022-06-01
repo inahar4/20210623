@@ -1,0 +1,7 @@
+body {
+  overflow: hidden;
+  background-color: hsl(138, 100%, 51%);
+}
+canvas {
+  background-color: hsl(0, 0%, 85%);
+}
